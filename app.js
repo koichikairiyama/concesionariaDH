@@ -85,6 +85,6 @@ autos: autos,
 //console.log(concesionaria.listaDeVentas())
 //console.log(concesionaria.totalDeVentas())
 //console.log(concesionaria.puedeComprar(autos[1], persona[1]))
-console.log(concesionaria.autosQuePuedeComprar(persona[0]))
+console.log(concesionaria.autosQuePuedeComprar(persona[1]))
 
 

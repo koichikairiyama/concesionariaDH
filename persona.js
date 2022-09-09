@@ -7,7 +7,7 @@ let persona = [
     {
         nombre: 'Pepe',
         capacidadDePagoEnCuotas: 70000,
-        capacidadDePagoTotal: 50000,
+        capacidadDePagoTotal: 10000,
     }, 
 
 ]
